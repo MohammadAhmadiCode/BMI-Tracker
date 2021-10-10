@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bmi-calculator/static/css/main.160e4576.chunk.css",
-    "main.js": "/bmi-calculator/static/js/main.2887f64f.chunk.js",
-    "main.js.map": "/bmi-calculator/static/js/main.2887f64f.chunk.js.map",
-    "runtime~main.js": "/bmi-calculator/static/js/runtime~main.1c230995.js",
-    "runtime~main.js.map": "/bmi-calculator/static/js/runtime~main.1c230995.js.map",
-    "static/css/2.ae9e8b99.chunk.css": "/bmi-calculator/static/css/2.ae9e8b99.chunk.css",
-    "static/js/2.94b87c7b.chunk.js": "/bmi-calculator/static/js/2.94b87c7b.chunk.js",
-    "static/js/2.94b87c7b.chunk.js.map": "/bmi-calculator/static/js/2.94b87c7b.chunk.js.map",
-    "index.html": "/bmi-calculator/index.html",
-    "precache-manifest.b4c4dc646e1ab51a4624b3f2f320a663.js": "/bmi-calculator/precache-manifest.b4c4dc646e1ab51a4624b3f2f320a663.js",
-    "service-worker.js": "/bmi-calculator/service-worker.js",
-    "static/css/2.ae9e8b99.chunk.css.map": "/bmi-calculator/static/css/2.ae9e8b99.chunk.css.map",
-    "static/css/main.160e4576.chunk.css.map": "/bmi-calculator/static/css/main.160e4576.chunk.css.map"
+    "main.css": "/BMI-Tracker/static/css/main.160e4576.chunk.css",
+    "main.js": "/BMI-Tracker/static/js/main.2887f64f.chunk.js",
+    "main.js.map": "/BMI-Tracker/static/js/main.2887f64f.chunk.js.map",
+    "runtime~main.js": "/BMI-Tracker/static/js/runtime~main.27d4a755.js",
+    "runtime~main.js.map": "/BMI-Tracker/static/js/runtime~main.27d4a755.js.map",
+    "static/css/2.ae9e8b99.chunk.css": "/BMI-Tracker/static/css/2.ae9e8b99.chunk.css",
+    "static/js/2.a150c5f2.chunk.js": "/BMI-Tracker/static/js/2.a150c5f2.chunk.js",
+    "static/js/2.a150c5f2.chunk.js.map": "/BMI-Tracker/static/js/2.a150c5f2.chunk.js.map",
+    "index.html": "/BMI-Tracker/index.html",
+    "precache-manifest.8d4bb6ad385831739cbe559d502f0b89.js": "/BMI-Tracker/precache-manifest.8d4bb6ad385831739cbe559d502f0b89.js",
+    "service-worker.js": "/BMI-Tracker/service-worker.js",
+    "static/css/2.ae9e8b99.chunk.css.map": "/BMI-Tracker/static/css/2.ae9e8b99.chunk.css.map",
+    "static/css/main.160e4576.chunk.css.map": "/BMI-Tracker/static/css/main.160e4576.chunk.css.map"
   }
 }
